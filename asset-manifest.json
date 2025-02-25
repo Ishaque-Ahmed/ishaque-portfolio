@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/ishaque-portfolio/static/css/main.0879aa37.css",
+    "main.js": "/ishaque-portfolio/static/js/main.2f2c9082.js",
+    "static/media/tour.png": "/ishaque-portfolio/static/media/tour.eedffcdce6b3763807f2.png",
+    "static/media/photogallery.png": "/ishaque-portfolio/static/media/photogallery.04330a2fe96728cf9391.png",
+    "static/media/hotelbooking.png": "/ishaque-portfolio/static/media/hotelbooking.53d6ececfdfc0fb618b3.png",
+    "static/media/healthcare.png": "/ishaque-portfolio/static/media/healthcare.dc0a7a68b4c1041ed09e.png",
+    "static/media/ishaque.jpg": "/ishaque-portfolio/static/media/ishaque.d2758d235f216c7c80e5.jpg",
+    "static/media/operating.png": "/ishaque-portfolio/static/media/operating.e35c003665a256a5a203.png",
+    "static/media/micro.jpg": "/ishaque-portfolio/static/media/micro.6602e3b6be1b81742790.jpg",
+    "static/media/kubernetes.png": "/ishaque-portfolio/static/media/kubernetes.f6e7db464208cc38dd1e.png",
+    "static/media/rest.jpg": "/ishaque-portfolio/static/media/rest.a3b490dd982b65145ceb.jpg",
+    "static/media/burgerbuilder.png": "/ishaque-portfolio/static/media/burgerbuilder.1990df23dfb793a6bc0e.png",
+    "static/media/bootstrap.png": "/ishaque-portfolio/static/media/bootstrap.02e16df6861464872846.png",
+    "static/media/react.png": "/ishaque-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/next.png": "/ishaque-portfolio/static/media/next.ba7ab0d0cb5673de0e86.png",
+    "static/media/node.png": "/ishaque-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/ishaque-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/ishaque-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/ishaque-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/ishaque-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/mongodb.png": "/ishaque-portfolio/static/media/mongodb.0f30b4d8d396109e5c54.png",
+    "static/media/mysql.png": "/ishaque-portfolio/static/media/mysql.4676ad983d6bd3e9fac9.png",
+    "static/media/py.jpg": "/ishaque-portfolio/static/media/py.d7e51f27ee9bb081cea7.jpg",
+    "static/media/c.png": "/ishaque-portfolio/static/media/c.1db7acec400505c5cd8d.png",
+    "static/media/javascript.png": "/ishaque-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/ishaque-portfolio/index.html",
+    "main.0879aa37.css.map": "/ishaque-portfolio/static/css/main.0879aa37.css.map",
+    "main.2f2c9082.js.map": "/ishaque-portfolio/static/js/main.2f2c9082.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0879aa37.css",
+    "static/js/main.2f2c9082.js"
+  ]
+}
