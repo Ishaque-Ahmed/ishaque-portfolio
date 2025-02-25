@@ -1,5 +1,5 @@
 import React from 'react';
-import myImg from '../assets/heroimage.png';
+import myImg from '../assets/ishaque.jpg';
 import { Link } from 'react-scroll';
 import { MdOutlineKeyboardArrowRight } from 'react-icons/md';
 
@@ -12,9 +12,13 @@ const Home = () => {
 
                 <div className='flex flex-col justify-center h-full'>
 
-                    <h2 className='text-4xl sm:text-7xl font-bold text-white mt-5'>I am a full stack Developer</h2>
+                    <h2 className='text-4xl sm:text-7xl font-bold text-white mt-5'>Software Engineer  Full-Stack Developer</h2>
 
-                    <p className='text-gray-500 py-4 max-w-md '>I am a full stack Web Developer and a programmer living in Sylhet, Bangladesh. I use React library, Tailwind CSS and Bootstrap for frontend development. My backend technologies are Node js and Express js. I use Mongo DB as the database and I also have good command over Google firebase.
+                    <p className='text-gray-500 py-4 max-w-md '>I specialize in building dynamic, scalable applications using React, Node.js, and AWS while ensuring seamless backend integrations with PostgreSQL and MongoDB. 
+
+                        <p>🔹 Expertise: JavaScript (React, Node.js), Cloud (AWS, Docker, Kubernetes), Database (MYSQL, PostgreSQL, MongoDB) </p>
+                        <p>🔹 Passion: Software Development, Cloud Computing, Quality Assurance</p>
+                        <p>🔹 Tech Stack: React, Redux, Next.js, Express.js, Jest, Kubernetes</p>
                     </p>
 
                     <div>
